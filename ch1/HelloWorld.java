@@ -2,7 +2,7 @@ package ch1;
 
 public class HelloWorld {
     public static void main(String[] args) {
-        String greeting = "Helloooo, World!";
+        String greeting = "resolv with tortoiseGitMerge";
         System.out.println(greeting);
 
         int number = 5;
